@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingCartList", "ShoppingCartList\ShoppingCartList.csproj", "{3A51C720-5500-4460-AFCB-6A2BEC65308B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingCartList.Blazor", "ShoppingCartList.Blazor\ShoppingCartList.Blazor.csproj", "{E0604EBE-C7C3-4A95-B4D6-5972148AAFDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A51C720-5500-4460-AFCB-6A2BEC65308B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A51C720-5500-4460-AFCB-6A2BEC65308B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A51C720-5500-4460-AFCB-6A2BEC65308B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A51C720-5500-4460-AFCB-6A2BEC65308B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0604EBE-C7C3-4A95-B4D6-5972148AAFDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0604EBE-C7C3-4A95-B4D6-5972148AAFDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0604EBE-C7C3-4A95-B4D6-5972148AAFDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0604EBE-C7C3-4A95-B4D6-5972148AAFDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
